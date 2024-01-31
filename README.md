@@ -14,9 +14,25 @@ flowers into different species based on their sepal and petal
 measurements. This dataset is widely used for introductory
 classification tasks.
 
-TASK 3
+------------------------------------------------------------------
 
-DATASET CLICK HERE
+
+Language: Python.
+------------------------------------------------------------------
+Tools:
+------------------------------------------------------------------
+Jupyter Notebooks or any Python IDE.
+Pandas for data manipulation.
+Matplotlib and Seaborn for data visualization
+----------------------------------------------------------------
+Machine Learning Models:
+------------------------------------------------------------------
+Scikit-learn library for implementing machine learning algorithms.
+Commonly used models include Logistic Regression, Decision Trees, Random Forest, Support Vector Machines, etc.
+Time series models (e.g., ARIMA or SARIMA) for predicting sales over time.
+Regression models if you have additional features influencing sales.
+Scikit-learn library for implementing machine learning algorithms.
+Common classification models like Decision Trees, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), or Neural Networks.
 
 
 ![51518iris img1](https://github.com/programmarself/CodSoft-Data-Science-Internship-Task-3-IRIS-FLOWER-CLASSIFICATION/assets/134633289/169169e1-e361-4ef0-a288-e8c95f513ebc)
