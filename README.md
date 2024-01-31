@@ -18,4 +18,6 @@ TASK 3
 
 DATASET CLICK HERE
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2022%2F06%2Firis-flowers-classification-using-machine-learning%2F&psig=AOvVaw0vz3bQZznI3rE0n-47bd_a&ust=1706798860116000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiAga2v74eEAxUThP0HHYosDbYQjRx6BAgAEBc
+
+![51518iris img1](https://github.com/programmarself/CodSoft-Data-Science-Internship-Task-3-IRIS-FLOWER-CLASSIFICATION/assets/134633289/169169e1-e361-4ef0-a288-e8c95f513ebc)
+
